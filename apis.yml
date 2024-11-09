@@ -20,3 +20,18 @@ maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
 specificationVersion: '0.19'
+common:
+  - name: Governance SDK
+    url: properties/f4e6fa31af431-getting-started
+    type: SDKs
+  - name: Glossary
+    description: Glossary
+    url: properties/o5a42p995zxt6-glossary
+    type: Glossary
+  - name: Boardroom Portal
+    url: properties/developers
+    type: Portal
+  - name: Boardroom Documentation
+    url: properties/
+    type: Documentation
+aid: boardroom-governance-api
