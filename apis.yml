@@ -22,16 +22,16 @@ maintainers:
 specificationVersion: '0.19'
 common:
   - name: Governance SDK
-    url: properties/f4e6fa31af431-getting-started
+    url: openapif4e6fa31af431-getting-started
     type: SDKs
   - name: Glossary
     description: Glossary
-    url: properties/o5a42p995zxt6-glossary
+    url: openapio5a42p995zxt6-glossary
     type: Glossary
   - name: Boardroom Portal
-    url: properties/developers
+    url: openapidevelopers
     type: Portal
   - name: Boardroom Documentation
-    url: properties/
+    url: openapi
     type: Documentation
 aid: boardroom-governance-api
