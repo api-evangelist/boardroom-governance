@@ -1,12 +1,12 @@
 url: https://example.com/apis/overview-governance-api.yml
 apis:
-  - name: Boardroom Governance API
+  - name: Boardroom Governance
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://docs.boardroom.io
     description: >-
       The Boardroom Governance API helps developers fetch and display governance
       data across DAOs and networks for your users in minutes.
-name: Boardroom Governance API
+name: Boardroom Governance
 tags:
   - Blockchain
 image: >-
