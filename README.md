@@ -1,33 +1,20 @@
-# Boardroom Governance (boardroom-governance-api)
-The Boardroom Governance API helps developers fetch and display governance data across DAOs and networks for your users in minutes.
+# Boardroom Governance
 
-**URL:** [Visit APIs.json URL](https://example.com/apis/overview-governance-api.yml)
+Boardroom is a governance aggregation platform that helps developers fetch and display governance data across DAOs and decentralized networks. The Boardroom Governance API provides access to proposals, votes, protocols, and voter data for Web3 governance applications.
 
-## Tags:
-
- - Blockchain
-
-## Timestamps
-
-- **Created:** 2024-03-30T00:00:00.000Z 
-- **Modified:** 2024-11-09 
+**URL:** [View APIs.yml](https://raw.githubusercontent.com/api-evangelist/boardroom-governance/refs/heads/main/apis.yml)
 
 ## APIs
 
-### Boardroom Governance
-The Boardroom Governance API helps developers fetch and display governance data across DAOs and networks for your users in minutes.
+### Boardroom Governance API
+Provides access to governance protocols, proposals, votes, voters, and delegation data for decentralized autonomous organizations (DAOs). Enables governance dashboards, voting applications, and DAO analytics tools.
 
-**Human URL:** [https://docs.boardroom.io](https://docs.boardroom.io)
+## Links
 
-## Common Properties
-
-- [SDKs](openapi/f4e6fa31af431-getting-started)
-- [Glossary](openapi/o5a42p995zxt6-glossary)
-- [Portal](openapi/developers)
-- [Documentation](openapi/)
+- [Website](https://boardroom.io)
+- [Developer Portal](https://boardroom.io/developers)
+- [Documentation](https://docs.boardroom.io)
 
 ## Maintainers
 
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+- **Kin Lane** - kinlane@gmail.com
