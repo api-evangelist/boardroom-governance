@@ -40,6 +40,8 @@ apis:
         url: https://boardroom.io/developers
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/boardroom-inc
   - type: Website
     url: https://boardroom.io
   - type: Portal
