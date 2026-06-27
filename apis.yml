@@ -52,7 +52,7 @@ common:
     url: https://docs.boardroom.io/docs/getting-started
   - type: Glossary
     url: https://docs.boardroom.io/docs/glossary
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://boardroom.io/llms.txt
 maintainers:
   - FN: Kin Lane
