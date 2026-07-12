@@ -40,6 +40,8 @@ apis:
         url: https://boardroom.io/developers
 
 common:
+  - type: DomainSecurity
+    url: security/boardroom-governance-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/boardroom-inc
   - type: Website
