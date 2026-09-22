@@ -34,6 +34,9 @@ url: https://raw.githubusercontent.com/api-evangelist/boardroom-governance/refs/
 created: '2024-03-30'
 modified: '2026-04-21'
 specificationVersion: '0.23'
+x-docs-platform: stoplight
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-09-20
 tags:
   - Blockchain
   - Governance
