@@ -66,6 +66,12 @@ apis:
         url: https://boardroom.io/developers
 
 common:
+  - type: Plans
+    url: plans/boardroom-governance-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/boardroom-governance-rate-limits.yml
+  - type: FinOps
+    url: finops/boardroom-governance-finops.yml
   - url: https://boardroom.io/blog/
     type: Blog
   - type: DomainSecurity
